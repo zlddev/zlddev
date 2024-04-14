@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/zldrblx" target="blank"><img src="https://img.shields.io/twitter/follow/zldrblx?logo=twitter&style=for-the-badge" alt="zldrblx" /></a> </p>
 
-- 🔭 I’m currently working on [SkyVerse Network](discord.skyversemc.xyz)
+- 🔭 I’m currently working on [Unity Hosting](discord.unitygroup.club)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java & PHP**
 
-- 🤝 I’m looking for help with [SkyVerse Network](discord.skyversemc.xyz)
+- 🤝 I’m looking for help with [Unity Hosting](discord.unitygroup.club)
 
-- 📫 How to reach me **kyle@skyversemc.xyz**
+- 📫 How to reach me **kyle@unitygroup.club**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
