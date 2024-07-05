@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/zldrblx" target="blank"><img src="https://img.shields.io/twitter/follow/zldrblx?logo=twitter&style=for-the-badge" alt="zldrblx" /></a> </p>
 
-- 🔭 I’m currently working on [Unity Educational Trust](github.com/Unity-Educational-Trust)
+- 🔭 I’m currently working on [Unity Educational Trust](https://github.com/Unity-Educational-Trust)
 
 - 🌱 I’m currently learning **Java & PHP**
 
-- 🤝 I’m looking for help with [Unity Educational Trust](github.com/Unity-Educational-Trust)
+- 🤝 I’m looking for help with [Unity Educational Trust](https://github.com/Unity-Educational-Trust)
 - 
 - 📫 How to reach me **kyle@unitygroup.club**
 
