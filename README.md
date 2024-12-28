@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm zld, a passionate developer from England<br><br>- 🔭 I’m working on [UploadIt](https://uploadit.pro)<br>- 📚 I'm currently learning Next.js<br>- ⚡ In my free time I create random projects</p>
+<p align="left">I'm zld, a passionate developer from England<br><br>- 🔭 I’m working on https://uploadit.pro<br>- 📚 I'm currently learning Next.js<br>- ⚡ In my free time I create random projects</p>
 
 ###
 
