@@ -1,7 +1,7 @@
 # 🌿 hey, welcome  
 
 <p align="center">
-  <img src="https://media.tenor.com/w8c6a4uRQQEAAAAC/anime-coding.gif" width="400"/>
+  <img src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="400"/>
 </p>
 
 ```text
